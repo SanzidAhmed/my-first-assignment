@@ -40,3 +40,24 @@
     font-weight: 600;
     font-size: 20px;
 }
+
+/* main section work */
+.main{
+    width: 100%;
+    padding: 100px 0px;
+}
+.main img{
+    height: auto;
+    width: 450px;
+}
+.main-text{
+    width: 550px;
+    margin-left: 100px;
+}
+.body{
+    width: 1130px;
+    max-width: 95%;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+}
