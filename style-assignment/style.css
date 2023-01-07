@@ -2,7 +2,6 @@
     background-image: url(/images/banner/banner3.png);
     background-size: cover;
     background-position: center;
-    width: 1900px;
     height: 1000px;
     padding-top: 30px;
 
@@ -117,7 +116,7 @@
     align-items: center;
     text-align: justify;
     margin-top: 200px;
-    margin-left: 410px;
+    margin-left: 380px;
     background-image: url(/images/gradient1.png), url(/images/watch.png);
     background-repeat: no-repeat;
     height: 300px;
