@@ -60,25 +60,26 @@
     margin: 0 auto;
     display: flex;
     align-items: center;
+    background-color: #aed1ee;
 }
 
 .body-heading {
     font-weight: 700;
     font-size: 40px;
-    color: #005FAC;
+    color: #151414;
     margin-bottom: 24px;
 }
 
 .body-description {
     font-weight: 400;
     font-size: 16px;
-    color: #005FAC;
+    color: #444343;
 }
 
 .body-list {
     font-weight: 400;
     font-size: 16px;
-    color: #005FAC;
+    color: #444343;
 }
 
 .about {}
@@ -87,14 +88,56 @@
     text-align: center;
     margin-top: 200px;
     font-weight: 700;
-    font-size: 40px;
-    color: #005FAC;
+    font-size: 50px;
+    color: #151414;
 
 }
-.about-planning-container{
+
+.about-planning-container {
     text-align: center;
     display: flex;
     justify-content: center;
     gap: 88px;
     margin-top: 50px;
+}
+
+.info-title {
+    font-weight: 700;
+    font-size: 30px;
+    color: #151414;
+}
+
+.info-description {
+    font-weight: 500;
+    font-size: 25px;
+    color: #737272;
+}
+
+.contact-me {
+    align-items: center;
+    text-align: justify;
+    margin-top: 200px;
+    margin-left: 410px;
+    background-image: url(/images/gradient1.png), url(/images/watch.png);
+    background-repeat: no-repeat;
+    height: 300px;
+}
+
+.watch-title {
+    padding-top: 50px;
+    padding-left: 50px;
+    font-weight: 700;
+    font-size: 40px;
+    color: #FFFFFF;
+}
+.btn-two{
+    height: 64px;
+    border-radius: 5px;
+    color: #005FAC;
+    padding: 20px 25px;
+    font-weight: 600;
+    font-size: 20px;
+    align-items: center;
+    margin-left: 50px;
+    margin-bottom: 100px;
 }
