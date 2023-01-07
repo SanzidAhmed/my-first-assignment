@@ -3,7 +3,8 @@
     background-size: cover;
     background-position: center;
     width: 1900px;
-    height: 900px;
+    height: 1000px;
+    padding-top: 30px;
 
 }
 
@@ -25,4 +26,17 @@
     font-size: 16px;
     color: #FFFFFF;
 
+}
+
+.btn-primary {
+    height: 64px;
+    border-radius: 5px;
+    align-items: right;
+    text-align: right;
+    float: right;
+    margin-right: 200px;
+    color: #005FAC;
+    padding: 20px 25px;
+    font-weight: 600;
+    font-size: 20px;
 }
