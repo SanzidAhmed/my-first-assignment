@@ -2,8 +2,9 @@
     background-image: url(/images/banner/banner3.png);
     background-size: cover;
     background-position: center;
+    width: 1900px;
     height: 1000px;
-    padding-top: 30px;
+    padding: 40px;
 
 }
 
