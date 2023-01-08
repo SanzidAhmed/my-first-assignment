@@ -15,24 +15,25 @@
     
 
 }
+.header-info{
+    text-align: right;
+    align-items: right;
+}
 
 .header-title {
     padding-top: 300px;
     padding-right: 200px;
-    align-items: right;
-    text-align: right;
     color: #FFFFFF;
     font-weight: 700;
     font-size: 65px;
 }
 
 .header-description {
-    align-items: right;
-    text-align: right;
     padding-right: 200px;
     font-weight: 400;
     font-size: 16px;
     color: #FFFFFF;
+    margin-bottom: 32px;
 
 }
 
@@ -47,6 +48,7 @@
     padding: 20px 25px;
     font-weight: 600;
     font-size: 20px;
+    
 }
 
 /* main section work */
@@ -137,6 +139,7 @@
     font-weight: 700;
     font-size: 40px;
     color: #FFFFFF;
+    margin-bottom: 24px;
 }
 
 .btn-two {
@@ -192,6 +195,12 @@
     font-weight: 400;
     font-size: 16px;
     color: #FFFFFF;
+}
+.footer-title{
+    margin-bottom: 31px;
+}
+.footer-form{
+    margin-bottom: 16px;
 }
 .btn-three{
     height: 64px;
