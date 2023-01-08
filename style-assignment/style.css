@@ -126,7 +126,7 @@
     text-align: justify;
     margin-top: 200px;
     margin-left: 380px;
-    background-image: url(/images/gradient1.png), url(/images/watch.png);
+    background-image: url(../images/gradient1.png), url(../images/watch.png);
     background-repeat: no-repeat;
     height: 300px;
 }
